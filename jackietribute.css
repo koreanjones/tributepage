@@ -36,7 +36,7 @@ body {
 
 @media screen and (max-width: 1200px) {
 	body {
-		margin: 0;
+		margin: 2px;
 	}
 	.col-md-12 {
 		padding: 0;

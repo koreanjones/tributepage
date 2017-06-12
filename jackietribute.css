@@ -34,7 +34,7 @@ body {
 	width: 100%;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 900px) {
 	body {
 		font-size: 3em;
 		margin: 10px;

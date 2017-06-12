@@ -35,15 +35,11 @@ body {
 }
 @media screen and (max-width: 478px) {
 	body {
+		font-size: 2em;
 		margin: 0;
 	}
 	.col-md-12 {
 		padding: 0;
 	}
-	#bio-paragraph {
-	font-size: 2em;
-	margin:0 0 0 40px;
-	padding-bottom: 10px;
-	}	
 
 }

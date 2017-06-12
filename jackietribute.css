@@ -1,7 +1,31 @@
 .container {
 }
 .well {
+	margin-top: 25px;
 	border: none;
 	background: #e84a5f;
 	color: white;
+	box-shadow: 0px 0px 5px 0px;
+}
+.thumbnail {
+	box-shadow: 0px 0px 5px 0px;
+}
+#main-body {
+	border: 1px solid lightgrey;
+	padding: 25px 0 25px 0;
+	border-radius: 5px;
+	margin: 0;
+	box-shadow: 0px 0px 5px 0px;
+}
+#bio {
+	margin-top: 0;
+}
+#bio-paragraph {
+	margin:0 0 0 40px;
+}
+#youngjackie {
+	border-radius: 5px;
+	padding: 10px;
+	box-shadow: 0 0 5px 0;
+	width: 100%;
 }

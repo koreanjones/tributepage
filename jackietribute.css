@@ -37,7 +37,7 @@ body {
 @media screen and (max-width: 1200px) {
 	body {
 		font-size: 3em;
-		margin: 2px;
+		margin: 10px;
 	}
 	ul {
 		font-size: 3em;

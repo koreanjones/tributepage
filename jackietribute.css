@@ -1,4 +1,6 @@
-
+body {
+	margin: 0 15% 0 15%;
+}
 .well {
 	margin-top: 25px;
 	border: none;
@@ -11,20 +13,32 @@
 }
 #main-body {
 	border: 1px solid lightgrey;
+	box-shadow: 0px 0px 5px 0px;
 	padding: 25px 0 25px 0;
 	border-radius: 5px;
 	margin: 0;
-	box-shadow: 0px 0px 5px 0px;
+	padding-bottom: 10px;
 }
 #bio {
 	margin-top: 0;
 }
 #bio-paragraph {
+	font-size: 1em;
 	margin:0 0 0 40px;
+	padding-bottom: 10px;
 }
 #youngjackie {
 	border-radius: 5px;
 	padding: 10px;
 	box-shadow: 0 0 5px 0;
 	width: 100%;
+}
+@media screen and (max-width: 478px) {
+	body {
+		margin: 0;
+	}
+	.col-md-12 {
+		padding: 0;
+	}
+
 }

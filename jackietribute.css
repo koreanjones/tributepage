@@ -33,6 +33,7 @@ body {
 	box-shadow: 0 0 5px 0;
 	width: 100%;
 }
+<<<<<<< HEAD
 @media screen and (max-width: 768px) {
 	body {
 		font-size: 2em;
@@ -42,6 +43,8 @@ body {
 		padding: 0;
 	}
 }
+=======
+>>>>>>> 123e9a910b3900adeeb643bcd8b87908d4960b68
 @media screen and (max-width: 478px) {
 	body {
 		font-size: 2em;
@@ -50,4 +53,9 @@ body {
 	.col-md-12 {
 		padding: 0;
 	}
+<<<<<<< HEAD
 }
+=======
+
+}
+>>>>>>> 123e9a910b3900adeeb643bcd8b87908d4960b68

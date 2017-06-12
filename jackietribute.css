@@ -33,12 +33,6 @@ body {
 	box-shadow: 0 0 5px 0;
 	width: 100%;
 }
-@media screen and (max-width: 768px) {
-	body {
-		font-size: 2em;
-		margin: 0;
-	}
-}
 @media screen and (max-width: 478px) {
 	body {
 		font-size: 2em;
